@@ -3,13 +3,17 @@
 <h1 align="center">Hi 👋, I'm Emprario</h1>
 <h3 align="center">A passionate linux developer 🐧!</h3>
 
-- 🔭 I’m currently working on [The Eupnea Project](https://github.com/eupnea-project)
+- 🔭 I’m currently working on a Worms Like : [PalaWorms](https://github.com/Emprario/Worms)
 
-- 🌱 I’m currently learning **the linux boot process**
+- 🌱 I’m currently learning how to code in C.
 
 ### Take a look at ...
 
-- 🦘 [Kexec-Bootloader](https://github.com/eupnea-project/kexec-bootloader): The bootloader for the Eupnea-project I'm currently working on ! (Bootloader for Chromebooks and UEFI plateforms)
+- 🍃 [The Eupnea Project](https://github.com/eupnea-project): A project that aimed to port a vast choice of linux distros to chromebooks using the default custom BIOS (Coreboot payload) from Google : Depthcharge  
+
+- 🦘 [Kexec-Bootloader](https://github.com/Emprario/kexec-bootloader): The bootloader for the Eupnea-project - using kexec jump, boot a linux kernel+initramfs from this bootloader (Bootloader for Chromebooks with Depthcharge)
+
+- 🗣️ [Pychatbot](https://github.com/Emprario/pychatbot-cameleri-guignolle-a): A Chatbot to discuss about french politics. Joke aside, it allows to analyse a corpus of texts about a certain topic and try to answer questions from the user 
 
 - 🃏 [PokerTUI](https://github.com/Emprario/PokerTUI): A game to play poker (multiplayer) in a terminal !
 
