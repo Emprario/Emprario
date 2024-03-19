@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Emprario</h1>
 <h3 align="center">A passionate linux developer 🐧!</h3>
 
-- 🔭 I’m currently working on a Worms Like : [PalaWorms](https://github.com/Emprario/Worms)
+- 🔭 I’m currently working on a Worms Like : [PalaVect2](https://github.com/Emprario/PalaVect2)
 
 - 🌱 I’m currently learning how to code in C.
 
