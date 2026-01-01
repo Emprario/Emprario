@@ -33,7 +33,9 @@
 
 ### Take a look at my other personal projects
 
-- 🪱 [PalaVect2](https://github.com/Emprario/PalaVect2): A WMD (Worms) Like game with realistic gravity, 2D interface and fully functionnal local multiplayer game ! 
+- 🪱 [PalaVect2](https://github.com/Emprario/PalaVect2): A WMD (Worms) Like game with realistic gravity, 2D interface and fully functionnal local multiplayer game !
+
+- 📊 [CDataX](https://github.com/Balafre78/CDataX): A collaborating project to create a fully complete DataFrame in C Programming Language.
 
 - 🗣️ [Pychatbot](https://github.com/Emprario/pychatbot-cameleri-guignolle-a): A Chatbot to discuss about the lovely topic of french politic. Joke aside, it allows to analyse a corpus of texts about a certain topic and try to answer questions from the user 
 
