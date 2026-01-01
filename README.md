@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Computer Science @ Efrei.
 
-- ☁️ Ask me about the linux stack
+- ☁️ Ask me about my distro
 
 - ⚡Fun fact fscrypt doesn't support btrfs 🫠 (gocryptfs might be cool, I'll give a shot 👀)
 
