@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Emprario</h1>
 <h3 align="center">A passionate linux enthusiast 🐧!</h3>
 
+- 📈 I'm currently working on a [machine learning model](https://github.com/Emprario/synthetic-cafai-bean) to predict the impact of coffee comsumption on health
+
 - 🌱 I’m currently learning Computer Science @ Efrei.
 
 - ☁️ Ask me about my distro
