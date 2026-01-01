@@ -1,25 +1,42 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Emprario</h1>
-<h3 align="center">A passionate linux developer 🐧!</h3>
+<h3 align="center">A passionate linux enthusiast 🐧!</h3>
 
-- 🔭 I’m currently working on a Worms Like : [PalaVect2](https://github.com/Emprario/PalaVect2)
+- 🌱 I’m currently learning Computer Science @ Efrei.
 
-- 🌱 I’m currently learning how to code in C.
+- ☁️ Ask me about the linux stack
 
-### Take a look at ...
+- ⚡Fun fact fscrypt doesn't support btrfs 🫠 (gocryptfs might be cool, I'll give a shot 👀)
 
-- 🍃 [The Eupnea Project](https://github.com/eupnea-project): A project that aimed to port a vast choice of linux distros to chromebooks using the default custom BIOS (Coreboot payload) from Google : Depthcharge  
+### Video Game Forum
+
+- 🚂 [red-engine](https://github.com/Emprario/red-engine): The backend of the website powered by express, exposing a documentation of the API using industry standard swagger
+
+-  🟥 [awp-vgm-front](https://github.com/Emprario/awp-vgm-front): The frontend of the multipage website using Vue3 and vue-router. Modern design in a responsive form !
+
+### BoardRanker
+
+- 🎲 [BoardRanker](https://github.com/BoardRanker): The project aims to create a matchmaking app for board game players
+
+- 🧠 [brains.vite](https://github.com/BoardRanker/brains.vite): The frontend of the application using vite and compatible PWA pulgin
+
+- ⚙️ [brapi](https://github.com/BoardRanker/brapi): The backend API for the webapp using typeorm and Nest
+
+### The Eupnea Project
+
+- 🍃 [The Eupnea Project](https://github.com/eupnea-project): A project that aimed to port a large amount of linux distros to chromebooks using the default custom BIOS (Coreboot payload) from Google : Depthcharge  
 
 - 🦘 [Kexec-Bootloader](https://github.com/Emprario/kexec-bootloader): The bootloader for the Eupnea-project - using kexec jump, boot a linux kernel+initramfs from this bootloader (Bootloader for Chromebooks with Depthcharge)
 
-- 🗣️ [Pychatbot](https://github.com/Emprario/pychatbot-cameleri-guignolle-a): A Chatbot to discuss about french politics. Joke aside, it allows to analyse a corpus of texts about a certain topic and try to answer questions from the user 
+### Take a look at my other personal projects
+
+- 🪱 [PalaVect2](https://github.com/Emprario/PalaVect2): A WMD (Worms) Like game with realistic gravity, 2D interface and fully functionnal local multiplayer game ! 
+
+- 🗣️ [Pychatbot](https://github.com/Emprario/pychatbot-cameleri-guignolle-a): A Chatbot to discuss about the lovely topic of french politic. Joke aside, it allows to analyse a corpus of texts about a certain topic and try to answer questions from the user 
 
 - 🃏 [PokerTUI](https://github.com/Emprario/PokerTUI): A game to play poker (multiplayer) in a terminal !
 
 - ⚔️ [WOF](https://github.com/Emprario/WOF): A strategic 2 player game (on the same screen) with pygame
 
-- 👢 [APTiBOT](https://github.com/Emprario/APTiBOT_src): A discord bot ...
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 👢 [APTiBOT](https://github.com/Emprario/APTiBOT_src): A simple discord bot in python
